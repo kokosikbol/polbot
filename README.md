@@ -18,4 +18,6 @@
 5:
 ![v](https://i.ibb.co/xYKmfKD/5.jpg)
 
-Put the oppened window behind off tibia, must be identical with the tibia window for work of the Bot.
+## Put the oppened window behind off tibia, must be identical with the tibia window for work of the Bot.
+
+![v](https://i.ibb.co/XsTqSSY/6.jpg)
