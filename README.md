@@ -1,4 +1,4 @@
-How To Use:
+#How To Use:
 
 Setup OBS and Tibia
 To configure your OBS, you must open a game capture with tibia's window selected.
