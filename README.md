@@ -16,6 +16,6 @@
 ![x](https://i.ibb.co/BTBdxBX/4.jpg)
 
 5:
-![v](https://i.ibb.co/68cv1cm/5.jpg)
+![v](https://i.ibb.co/xYKmfKD/5.jpg)
 
 Put the oppened window behind off tibia, must be identical with the tibia window for work of the Bot.
