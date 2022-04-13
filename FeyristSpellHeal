@@ -1,0 +1,1 @@
+[{"name":"Exura Gran Ico","hotkey_index":3,"condition_1":0,"value_condition_1":{"min":30,"max":30},"condition_2":4,"value_condition_2":{"min":20,"max":20},"delay":{"min":300,"max":500}},{"name":"Exura Ico","hotkey_index":1,"condition_1":0,"value_condition_1":{"min":95,"max":97},"condition_2":4,"value_condition_2":{"min":2,"max":2},"delay":{"min":250,"max":350}}]
